@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Krishna  Config">7545c6056047d110baf10b2e7b5dd966</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Compose Email">b07e59fe7743501033809b306910610c</macroponent>
+        <macroponent_config>{
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "y",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Draft Email Page</name>
+        <order>100</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition>table=sys_email_draft</screen_condition>
+        <screen_type display_value="Record">7545c6057247d110af793c1e74948a61</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b545c6058e47d1101057a0120a8bf95e</sys_id>
+        <sys_name>Draft Email Page</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>sys_ux_screen_b545c6058e47d1101057a0120a8bf95e</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=b545c6058e47d1101057a0120a8bf95e"/>
+</record_update>

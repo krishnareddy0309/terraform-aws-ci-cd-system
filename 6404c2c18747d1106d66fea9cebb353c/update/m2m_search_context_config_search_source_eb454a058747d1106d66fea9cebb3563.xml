@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>200</order>
+        <search_context_config display_value="Krishna  - Workspace Search">3d45c605ec47d110dbaab4c52296db62</search_context_config>
+        <source display_value="Krishna  - pa_active_jobs">43454a058747d1106d66fea9cebb3522</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:56</sys_created_on>
+        <sys_id>eb454a058747d1106d66fea9cebb3563</sys_id>
+        <sys_name/>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_eb454a058747d1106d66fea9cebb3563</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

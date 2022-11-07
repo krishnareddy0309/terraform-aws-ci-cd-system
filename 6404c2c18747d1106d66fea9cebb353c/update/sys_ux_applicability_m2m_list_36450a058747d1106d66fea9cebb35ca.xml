@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for appKrishna ">7e450a058747d1106d66fea9cebb356f</applicability>
+        <list display_value="All">f6450a058747d1106d66fea9cebb35c8</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:53</sys_created_on>
+        <sys_id>36450a058747d1106d66fea9cebb35ca</sys_id>
+        <sys_name/>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_36450a058747d1106d66fea9cebb35ca</sys_update_name>
+    </sys_ux_applicability_m2m_list>
+</record_update>

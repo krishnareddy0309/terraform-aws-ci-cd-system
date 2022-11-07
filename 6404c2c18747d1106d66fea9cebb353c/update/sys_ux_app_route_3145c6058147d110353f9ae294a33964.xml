@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Krishna  Config">7545c6056047d110baf10b2e7b5dd966</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon>heartbeat-outline</icon>
+        <name>Record Information tab</name>
+        <optional_parameters/>
+        <order>99</order>
+        <parent_macroponent display_value="Record">558adc930f0210107d20409dc4767e84</parent_macroponent>
+        <parent_macroponent_composition_element_id>contextual_sidebar</parent_macroponent_composition_element_id>
+        <route_type>recordinformationtab</route_type>
+        <screen_type display_value="Record Information tab">7d45c6058b47d110360561c145bb5b61</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:50</sys_created_on>
+        <sys_id>3145c6058147d110353f9ae294a33964</sys_id>
+        <sys_name>Record Information tab</sys_name>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>sys_ux_app_route_3145c6058147d110353f9ae294a33964</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=3145c6058147d110353f9ae294a33964"/>
+</record_update>

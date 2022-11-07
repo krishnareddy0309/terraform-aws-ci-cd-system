@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_933715_krishna.user" name="x_933715_krishna.user">7404c2c18747d1106d66fea9cebb356c</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:13:17</sys_created_on>
+        <sys_id>3404c2c18747d1106d66fea9cebb356d</sys_id>
+        <sys_name>7404c2c18747d1106d66fea9cebb356c</sys_name>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3404c2c18747d1106d66fea9cebb356d</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>

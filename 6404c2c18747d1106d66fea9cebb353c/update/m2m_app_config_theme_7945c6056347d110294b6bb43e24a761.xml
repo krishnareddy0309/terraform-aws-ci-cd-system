@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7945c6056347d110294b6bb43e24a761</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>m2m_app_config_theme_7945c6056347d110294b6bb43e24a761</sys_update_name>
+        <theme display_value="Starter Workspace Theme">fd45c6056047d1100bbc7aaeca91275f</theme>
+        <ux_app_configuration display_value="Krishna  Config">7545c6056047d110baf10b2e7b5dd966</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

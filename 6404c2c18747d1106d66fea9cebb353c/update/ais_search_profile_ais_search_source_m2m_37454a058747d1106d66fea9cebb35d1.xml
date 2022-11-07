@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Krishna  Search Profile">b945c6053847d1102855b682a6ce3563</profile>
+        <search_source display_value="Active PA jobs">f7454a058747d1106d66fea9cebb35cf</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:57</sys_created_on>
+        <sys_id>37454a058747d1106d66fea9cebb35d1</sys_id>
+        <sys_name>Krishna  Search Profile.Active PA jobs</sys_name>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_37454a058747d1106d66fea9cebb35d1</sys_update_name>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

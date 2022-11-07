@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Krishna ">3d45c605ef47d1107cd879129b32d45e</dashboard>
+        <group/>
+        <role display_value="x_933715_krishna.admin" name="x_933715_krishna.admin">b804c2c18747d1106d66fea9cebb3567</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:53</sys_created_on>
+        <sys_id>b6450a058747d1106d66fea9cebb3573</sys_id>
+        <sys_name>3d45c605ef47d1107cd879129b32d45e</sys_name>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_update_name>par_dashboard_permission_b6450a058747d1106d66fea9cebb3573</sys_update_name>
+        <user/>
+    </par_dashboard_permission>
+</record_update>

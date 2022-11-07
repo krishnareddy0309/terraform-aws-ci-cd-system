@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-07 07:18:54</sys_created_on>
+        <sys_id>0b450a058747d1106d66fea9cebb35cf</sys_id>
+        <sys_name>x.933715.krishna.*.x_933715_krishna.admin</sys_name>
+        <sys_package display_value="Krishna " source="x_933715_krishna">6404c2c18747d1106d66fea9cebb353c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Krishna ">6404c2c18747d1106d66fea9cebb353c</sys_scope>
+        <sys_security_acl display_value="x.933715.krishna.*">b945c605e347d1103cabe6d2a75aca64</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0b450a058747d1106d66fea9cebb35cf</sys_update_name>
+        <sys_user_role display_value="x_933715_krishna.admin" name="x_933715_krishna.admin">b804c2c18747d1106d66fea9cebb3567</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
